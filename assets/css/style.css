@@ -162,12 +162,14 @@ h4{
 }
 #sec3{
     margin: 0px 30px;
+
 }
 #sec3 .date{
     justify-content: space-between;
 }
 .secondoArt{
     display: flex;
+
 }
 .unione{
     width: 70%;
@@ -178,7 +180,7 @@ h4{
     width: 30%;
     max-height: 30%;
 }
-.proviamo{
+.ridimensiona{
     width: 100%;
     margin-left: 2em;
 }
